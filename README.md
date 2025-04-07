@@ -34,7 +34,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+<img align="right" width="88" src="https://blog-1256284390.cos.ap-beijing.myqcloud.com/2.png" />
 
 <p>&emsp;&emsp;嗨，我是XIU。热爱编程、读书、健身。</p>
 <p>&emsp;&emsp;想要成为Rust带师</p>
