@@ -38,7 +38,6 @@
 
 <p>&emsp;&emsp;嗨，我是XIU。热爱编程、读书、健身。</p>
 <p>&emsp;&emsp;想要成为Rust带师</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 
   <!-- for beauty 留个空行好看点 -->
